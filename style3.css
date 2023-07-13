@@ -1,0 +1,31 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.hero{
+    height: 100vh;
+    background-image: url('images/birthday4.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.hero p{
+    font-size: 18px;
+    font-weight: 100;
+    color:#fff;
+    font-style:inherit;
+    position: absolute;
+    top:30%;
+    padding:10px;
+    margin-left: 3%;
+}
+.hero h4{
+    font-size: 40px;
+    font-weight: 400;
+    color:lightblue;
+    position: absolute;
+    padding:10px;
+    top:20%;
+    margin-left:3%;
+}
